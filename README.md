@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Mahvil 👋</h1>
-<h3 align="center">Blue-Team Security Engineer · Full-Stack Developer</h3>
+<h3 align="center">Blue Team Security Engineer · Full-Stack Developer</h3>
 
 <p align="center">
   CS undergrad at Bahria University, Islamabad. I build defensive security tools
-  (malware analysis, DFIR and SOC automation) as full-stack web apps with Django and React.
+  (malware analysis, DFIR and SOC automation) as full stack web apps with Django and React.
 </p>
 
 ---
